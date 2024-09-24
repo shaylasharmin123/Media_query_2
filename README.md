@@ -1,2 +1,2 @@
 # Media_query_2
-Media_query_2 projects are here.
+ https://shaylasharmin123.github.io/Media_query_2/
